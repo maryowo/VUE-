@@ -1,4 +1,4 @@
-# vue.js-git-
+# vue.js-git-clock
 Vue 時鐘效果
 
 # 範例
