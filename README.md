@@ -1,4 +1,4 @@
-# ue.js-git-
+# vue.js-git-
 Vue 時鐘效果
 
 # 範例
